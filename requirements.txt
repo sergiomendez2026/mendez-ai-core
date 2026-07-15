@@ -1,1 +1,7 @@
+Mendez AI Core
 
+Biblioteca de ingeniería compartida para todos los productos desarrollados por Mendez AI Labs.
+
+Estado actual
+
+En desarrollo
